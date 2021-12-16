@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationPrep2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="inbox_fragment">Inbox fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sent_fragment">Sent fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="help_fragment">Help fragment</string>
+</resources>
